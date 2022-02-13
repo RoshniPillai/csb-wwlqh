@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://roshnipillai.github.io/csb-wwlqh/static/css/main.0d4e5c63.chunk.css",
+    "main.js": "https://roshnipillai.github.io/csb-wwlqh/static/js/main.aca564b5.chunk.js",
+    "main.js.map": "https://roshnipillai.github.io/csb-wwlqh/static/js/main.aca564b5.chunk.js.map",
+    "runtime-main.js": "https://roshnipillai.github.io/csb-wwlqh/static/js/runtime-main.2568785a.js",
+    "runtime-main.js.map": "https://roshnipillai.github.io/csb-wwlqh/static/js/runtime-main.2568785a.js.map",
+    "static/js/2.d5e5ffcc.chunk.js": "https://roshnipillai.github.io/csb-wwlqh/static/js/2.d5e5ffcc.chunk.js",
+    "static/js/2.d5e5ffcc.chunk.js.map": "https://roshnipillai.github.io/csb-wwlqh/static/js/2.d5e5ffcc.chunk.js.map",
+    "index.html": "https://roshnipillai.github.io/csb-wwlqh/index.html",
+    "static/css/main.0d4e5c63.chunk.css.map": "https://roshnipillai.github.io/csb-wwlqh/static/css/main.0d4e5c63.chunk.css.map",
+    "static/js/2.d5e5ffcc.chunk.js.LICENSE.txt": "https://roshnipillai.github.io/csb-wwlqh/static/js/2.d5e5ffcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2568785a.js",
+    "static/js/2.d5e5ffcc.chunk.js",
+    "static/css/main.0d4e5c63.chunk.css",
+    "static/js/main.aca564b5.chunk.js"
+  ]
+}
